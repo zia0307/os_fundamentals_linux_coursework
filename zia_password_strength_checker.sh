@@ -29,19 +29,19 @@ case $count in
 	echo "Invalid"
 	;;
 	2) 
-	echo "Very Weak"
+	echo "Password strength is 2"
 	;;
 	4)
-	echo "Weak"
+	echo "Password strength is 4" 
 	;;
 	6)
-	echo "Fair"
+	echo "Password strength is 6"
 	;;
 	8)
-	echo "Strong" 
+	echo "Password strength is 8"
 	;;
 	10)
-	echo "Excellent"
+	echo "Password strength is 10"
 	;;
 esac 
 	
